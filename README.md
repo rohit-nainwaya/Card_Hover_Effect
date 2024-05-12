@@ -1,2 +1,2 @@
 # Card_Hover_Effect
-This is a basic card-hover effect, created using pseudo class{hover} &amp; box-shadow property of CSS !
+This is a card-hover effect: created using pseudo class{hover}, box-shadow property of CSS &amp; some basic CSS properties!
